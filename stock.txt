@@ -1,0 +1,3 @@
+Jardinera:25
+Pino:5
+Rosas:10
